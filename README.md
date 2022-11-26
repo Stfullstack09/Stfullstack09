@@ -3,10 +3,10 @@
 
 ![gitartwork](gitartwork.svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kabirsingh2004&label=Profile%20views&color=0e75b6&style=flat" alt="kabirsingh2004" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=truongson09112003&label=Profile%20views&color=0e75b6&style=flat" alt="truongson09112003" /> </p>
 
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=BritnessDev&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=truongson09112003&column=7&theme=onedark" alt="truongson09112003" />
 </p>
 
 -   🔭 My Current Address [Hà Nội ](https://goo.gl/maps/nW6ZGEJMb3EqyHZh7)
