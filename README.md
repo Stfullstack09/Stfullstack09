@@ -9,19 +9,17 @@
     <img src="https://github-profile-trophy.vercel.app/?username=BritnessDev&column=7&theme=onedark"/>
 </p>
 
--   🔭 I’m currently working on [John Week ](http://81cuonggl.epizy.com/)
+-   🔭 My Current Address [Hà Nội ](https://goo.gl/maps/nW6ZGEJMb3EqyHZh7)
 
--   🌱 I’m currently learning **JS , ReactJS , Web Developemt , MERN**
+-   🌱 I’m currently learning **JS , ReactJS , Web Developemt , MERN, SERN**
 
--   👯 I’m looking to collaborate on [Music-bot-V11](https://github.com/truongson09112003/music-bot-v11)
-
--   🤝 I’m looking for help with [Music-bot-V11](https://github.com/truongson09112003/music-bot-v11)
+-   👯 I'm looking to learn some new technology from [React Js v18](https://reactjs.org/)
 
 -   👨‍💻 All of my projects are available at [My Github](https://github.com/truongson09112003)
 
 -   💬 Ask me about **Discord Bot Development and Web Developement**
 
--   📫 How to reach me [Discord Server](https://discord.gg/TVeS33Dgrs)
+-   📫 How to reach me [Discord Server](https://discord.gg/6Xf3NfccgU)
 
 -   ⚡ Fun fact **I am SuperHero from Earth**
 
