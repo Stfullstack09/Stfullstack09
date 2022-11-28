@@ -19,7 +19,7 @@
 
 -   💬 Ask me about **Discord Bot Development and Web Developement**
 
--   📫 How to reach me [Discord Server](https://discord.gg/6Xf3NfccgU)
+-   📫 How to reach me [Discord Server](https://discord.gg/RS8TcYkAkh)
 
 -   ⚡ Fun fact **I am SuperHero from Earth**
 
