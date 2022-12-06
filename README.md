@@ -3,10 +3,10 @@
 
 ![gitartwork](gitartwork.svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=truongson09112003&label=Profile%20views&color=0e75b6&style=flat" alt="truongson09112003" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=truongsondev&label=Profile%20views&color=0e75b6&style=flat" alt="truongson09112003" /> </p>
 
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=truongson09112003&column=7&theme=onedark" alt="https://github-profile-trophy.vercel.app/?username=truongson09112003&column=7&theme=onedark">
+    <img src="https://github-profile-trophy.vercel.app/?username=truongsondev&column=7&theme=onedark" alt="https://github-profile-trophy.vercel.app/?username=truongson09112003&column=7&theme=onedark">
 </p>
 
 -   🔭 My Current Address [Hà Nội ](https://goo.gl/maps/nW6ZGEJMb3EqyHZh7)
@@ -15,7 +15,7 @@
 
 -   👯 I'm looking to learn some new technology from [React Js v18](https://reactjs.org/)
 
--   👨‍💻 All of my projects are available at [My Github](https://github.com/truongson09112003)
+-   👨‍💻 All of my projects are available at [My Github](https://github.com/truongsondev)
 
 -   💬 Ask me about **Discord Bot Development and Web Developement**
 
@@ -47,9 +47,9 @@
 
 ## 📊GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=truongson09112003&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=truongson09112003&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=truongson09112003&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)/
+![](https://github-readme-stats.vercel.app/api?username=truongsondev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=truongsondev&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=truongsondev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)/
 
 ### 😂Random Dev Meme
 
