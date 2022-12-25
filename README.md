@@ -52,14 +52,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=truongsondev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)/
 
 ### 😂Random Dev Meme
+![](https://random-memer.herokuapp.com/)
 
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=nguyentruongson&label=Profile%20Views&color=6&icon=8&pretty=false)](https://visitcount.itsvg.in)
-
-## 💰You can help me by Donating
 
 <!-- [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/V7V2CK7GD#paypalModal) -->
 
