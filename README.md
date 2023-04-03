@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Nguyen Truong Son</h1>
-<h3 align="center">A JavaScript And TypeScript Developer With A Basic Level❤️</h3>
+<h3 align="center">A JavaScript And TypeScript Developer❤️</h3>
 
 ![gitartwork](gitartwork.svg)
 
