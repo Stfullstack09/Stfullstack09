@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=truongsondev&label=Profile%20views&color=0e75b6&style=flat" alt="truongson09112003" /> </p>
 
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=truongsondev&column=7&theme=onedark" alt="https://github-profile-trophy.vercel.app/?username=truongson09112003&column=7&theme=onedark">
+    <img src="https://github-profile-trophy.vercel.app/?username=truongsondev&column=7&theme=onedark" alt="https://github-profile-trophy.vercel.app/?username=truongsondev&column=7&theme=onedark">
 </p>
 
 -   🔭 My Current Address [Hà Nội ](https://goo.gl/maps/nW6ZGEJMb3EqyHZh7)
@@ -37,7 +37,7 @@
 
 ## 🏆GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=truongson09112003&column=7&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=truongsondev&column=7&theme=onedark)
 
 ### ✍️Random Dev Quote
 
