@@ -42,7 +42,7 @@
 ### ✍️Random Dev Quote
 
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style=" margin-top: 10px; object-fit: contain; width: 100vw; object-fit: contain; "/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style=" margin-top: 10px; object-fit: contain; width: 100vw; object-fit: cover; "/>
 
 
 ## 📊GitHub Stats :
