@@ -47,9 +47,9 @@
 
 ## 📊GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=truongsondev&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=truongsondev&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=truongsondev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)/
+![](https://github-readme-stats.vercel.app/api?username=truongsondev&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=truongsondev&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=truongsondev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)/
 
 ### Cute babby
 <img src="https://res.cloudinary.com/dfsu3fqwb/image/upload/v1671967324/s19al1v3g6v0zthgj3em.jpg" alt="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style=" margin-top: 10px; object-fit: contain;" object-fit: contain />
